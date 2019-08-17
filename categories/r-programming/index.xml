@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Programming on Phuoc&#39;s Blog</title>
-    <link>http://iphuoc.github.io/Phuoc-Blog/categories/r-programming/</link>
+    <link>/categories/r-programming/</link>
     <description>Recent content in R-Programming on Phuoc&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://iphuoc.github.io/Phuoc-Blog/categories/r-programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/r-programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SBK Case Study</title>
-      <link>http://iphuoc.github.io/Phuoc-Blog/blog/06.-sbk-case-study/</link>
+      <link>/blog/06.-sbk-case-study/</link>
       <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iphuoc.github.io/Phuoc-Blog/blog/06.-sbk-case-study/</guid>
+      <guid>/blog/06.-sbk-case-study/</guid>
       <description>Last Week I applied at SBK (Siemens Betriebskrankenkasse) as a Data Scientist. After a telehone Interview, I offered them to do a Case Study to prove my skills.
 Check it out: The presentation https://rpubs.com/iPhuoc/sbk_case_study
 The Dashboard http://rpubs.com/iPhuoc/sbk_case_study_dashboard</description>
@@ -24,10 +24,10 @@ The Dashboard http://rpubs.com/iPhuoc/sbk_case_study_dashboard</description>
     
     <item>
       <title>Adidas Case Study</title>
-      <link>http://iphuoc.github.io/Phuoc-Blog/blog/05.-adidas-case-study/</link>
+      <link>/blog/05.-adidas-case-study/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iphuoc.github.io/Phuoc-Blog/blog/05.-adidas-case-study/</guid>
+      <guid>/blog/05.-adidas-case-study/</guid>
       <description>UPDATE
 I had to take everything down
 Yesss! In November I applied at Adidas as a Data Scientist. After a telephone Interview, they gave me a Case Study.
@@ -40,20 +40,20 @@ and i also currently working on a Webpage https://iphuoc.github.io/adidas-case-s
     
     <item>
       <title>Setup shinyapps.io</title>
-      <link>http://iphuoc.github.io/Phuoc-Blog/blog/04.-shinyapps.io/</link>
+      <link>/blog/04.-shinyapps.io/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iphuoc.github.io/Phuoc-Blog/blog/04.-shinyapps.io/</guid>
+      <guid>/blog/04.-shinyapps.io/</guid>
       <description>Today I created a shinyapps.io.
 Let the Application Building begin!!</description>
     </item>
     
     <item>
       <title>Setup RPubs!</title>
-      <link>http://iphuoc.github.io/Phuoc-Blog/blog/03.-rpubs-setup/</link>
+      <link>/blog/03.-rpubs-setup/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iphuoc.github.io/Phuoc-Blog/blog/03.-rpubs-setup/</guid>
+      <guid>/blog/03.-rpubs-setup/</guid>
       <description>Today I created a RPubs Account, where I can upload all my R Documentations and Presentations!</description>
     </item>
     

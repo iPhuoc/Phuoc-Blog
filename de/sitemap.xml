@@ -3,181 +3,181 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/de/blog/</loc>
+    <loc>https://iphuoc.github.io/de/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="https://iphuoc.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/"
+                href="https://iphuoc.github.io/de/blog/"
                 />
   </url>
   
   <url>
-    <loc>/de/</loc>
+    <loc>https://iphuoc.github.io/de/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://iphuoc.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://iphuoc.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/</loc>
+    <loc>https://iphuoc.github.io/de/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://iphuoc.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://iphuoc.github.io/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>/de/blog/creating-a-new-theme/</loc>
+    <loc>https://iphuoc.github.io/de/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/creating-a-new-theme/"
+                href="https://iphuoc.github.io/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/creating-a-new-theme/"
+                href="https://iphuoc.github.io/de/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/hugo/</loc>
+    <loc>https://iphuoc.github.io/de/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/hugo/"
+                href="https://iphuoc.github.io/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/hugo/"
+                href="https://iphuoc.github.io/de/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>/de/about/</loc>
+    <loc>https://iphuoc.github.io/de/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://iphuoc.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/about/"
+                href="https://iphuoc.github.io/de/about/"
                 />
   </url>
   
   <url>
-    <loc>/de/blog/goisforlovers/</loc>
+    <loc>https://iphuoc.github.io/de/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/goisforlovers/"
+                href="https://iphuoc.github.io/blog/goisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/goisforlovers/"
+                href="https://iphuoc.github.io/de/blog/goisforlovers/"
                 />
   </url>
   
   <url>
-    <loc>/de/blog/hugoisforlovers/</loc>
+    <loc>https://iphuoc.github.io/de/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/hugoisforlovers/"
+                href="https://iphuoc.github.io/blog/hugoisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/hugoisforlovers/"
+                href="https://iphuoc.github.io/de/blog/hugoisforlovers/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/go/</loc>
+    <loc>https://iphuoc.github.io/de/categories/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/go/"
+                href="https://iphuoc.github.io/categories/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/go/"
+                href="https://iphuoc.github.io/de/categories/go/"
                 />
   </url>
   
   <url>
-    <loc>/de/categories/jekyll/</loc>
+    <loc>https://iphuoc.github.io/de/categories/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/jekyll/"
+                href="https://iphuoc.github.io/categories/jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/jekyll/"
+                href="https://iphuoc.github.io/de/categories/jekyll/"
                 />
   </url>
   
   <url>
-    <loc>/de/blog/migrate-from-jekyll/</loc>
+    <loc>https://iphuoc.github.io/de/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/migrate-from-jekyll/"
+                href="https://iphuoc.github.io/blog/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/migrate-from-jekyll/"
+                href="https://iphuoc.github.io/de/blog/migrate-from-jekyll/"
                 />
   </url>
   
   <url>
-    <loc>/de/tags/</loc>
+    <loc>https://iphuoc.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://iphuoc.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://iphuoc.github.io/de/tags/"
                 />
   </url>
   

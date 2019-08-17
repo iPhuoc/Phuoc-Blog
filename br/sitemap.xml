@@ -3,200 +3,200 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iphuoc.github.io/br/blog/</loc>
+    <loc>/br/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/blog/"
+                href="/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/blog/"
+                href="/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/blog/"
+                href="/pl/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/blog/"
+                href="/br/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/categories/</loc>
+    <loc>/br/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/categories/"
+                href="/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/categories/"
+                href="/br/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/blog/creating-a-new-theme/</loc>
+    <loc>/br/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/blog/creating-a-new-theme/"
+                href="/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/blog/creating-a-new-theme/"
+                href="/fr/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/blog/creating-a-new-theme/"
+                href="/pl/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/blog/creating-a-new-theme/"
+                href="/br/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/categories/hugo/</loc>
+    <loc>/br/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/categories/hugo/"
+                href="/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/categories/hugo/"
+                href="/fr/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/categories/hugo/"
+                href="/pl/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/categories/hugo/"
+                href="/br/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/</loc>
+    <loc>/br/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/"
+                href="/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/"
+                href="/br/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/about/</loc>
+    <loc>/br/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/about/"
+                href="/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/about/"
+                href="/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/about/"
+                href="/br/about/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/contact/</loc>
+    <loc>/br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/contact/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/contact/"
+                href="/pl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/contact/"
+                href="/br/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://iphuoc.github.io/br/tags/</loc>
+    <loc>/br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iphuoc.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://iphuoc.github.io/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://iphuoc.github.io/pl/tags/"
+                href="/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://iphuoc.github.io/br/tags/"
+                href="/br/tags/"
                 />
   </url>
   

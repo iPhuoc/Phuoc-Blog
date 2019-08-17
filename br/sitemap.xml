@@ -3,200 +3,200 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/br/blog/</loc>
+    <loc>/Phuoc-Blog/br/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/"
+                href="/Phuoc-Blog/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/"
+                href="/Phuoc-Blog/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/blog/"
+                href="/Phuoc-Blog/pl/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/blog/"
+                href="/Phuoc-Blog/br/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/categories/</loc>
+    <loc>/Phuoc-Blog/br/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="/Phuoc-Blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="/Phuoc-Blog/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/categories/"
+                href="/Phuoc-Blog/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/categories/"
+                href="/Phuoc-Blog/br/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/blog/creating-a-new-theme/</loc>
+    <loc>/Phuoc-Blog/br/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/creating-a-new-theme/"
+                href="/Phuoc-Blog/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/creating-a-new-theme/"
+                href="/Phuoc-Blog/fr/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/blog/creating-a-new-theme/"
+                href="/Phuoc-Blog/pl/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/blog/creating-a-new-theme/"
+                href="/Phuoc-Blog/br/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/categories/hugo/</loc>
+    <loc>/Phuoc-Blog/br/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/hugo/"
+                href="/Phuoc-Blog/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/hugo/"
+                href="/Phuoc-Blog/fr/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/categories/hugo/"
+                href="/Phuoc-Blog/pl/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/categories/hugo/"
+                href="/Phuoc-Blog/br/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/</loc>
+    <loc>/Phuoc-Blog/br/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="/Phuoc-Blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="/Phuoc-Blog/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/"
+                href="/Phuoc-Blog/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/"
+                href="/Phuoc-Blog/br/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/about/</loc>
+    <loc>/Phuoc-Blog/br/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="/Phuoc-Blog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/about/"
+                href="/Phuoc-Blog/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/about/"
+                href="/Phuoc-Blog/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/about/"
+                href="/Phuoc-Blog/br/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/contact/</loc>
+    <loc>/Phuoc-Blog/br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="/Phuoc-Blog/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/contact/"
+                href="/Phuoc-Blog/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/contact/"
+                href="/Phuoc-Blog/pl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/contact/"
+                href="/Phuoc-Blog/br/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/tags/</loc>
+    <loc>/Phuoc-Blog/br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="/Phuoc-Blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="/Phuoc-Blog/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/tags/"
+                href="/Phuoc-Blog/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/tags/"
+                href="/Phuoc-Blog/br/tags/"
                 />
   </url>
   
